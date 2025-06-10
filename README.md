@@ -24,4 +24,4 @@ Adding Data :
 
 Viewing Data:
 
-<img width="1231" alt="Screenshot 2025-06-10 at 5 23 01 PM" src="https://github.com/user-attachments/assets/fdf74204-6fdf-4944-9f32-4488eda035d9" />
+![Screenshot 2025-06-10 at 5 23 51 PM](https://github.com/user-attachments/assets/757fbc0c-66fa-42b1-af0f-98e139577ff2)
