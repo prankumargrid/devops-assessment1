@@ -15,3 +15,13 @@ For running the application : docker-compose up --build
 To enter data : curl -X POST http://localhost:3001/add -H "Content-Type: application/json" -d '{"name":"Alice", "age":25}'
 
 To view data : curl http://localhost:3002/users
+
+Screenshots :
+
+Adding Data :
+
+<img width="1119" alt="Screenshot 2025-06-10 at 5 21 36 PM" src="https://github.com/user-attachments/assets/a8b90c73-71b0-4ee4-97e2-606b03dcfcf7" />
+
+Viewing Data:
+
+<img width="1231" alt="Screenshot 2025-06-10 at 5 23 01 PM" src="https://github.com/user-attachments/assets/fdf74204-6fdf-4944-9f32-4488eda035d9" />
